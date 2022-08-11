@@ -1,0 +1,6 @@
+github.com/stacktitan/ldapauth v0.0.0-20161231061507-41244cb77dd8 h1:+9IfceETN1u9InLKTAB7PQViWVxh63EQfK/PCrmEiGg=
+github.com/stacktitan/ldapauth v0.0.0-20161231061507-41244cb77dd8/go.mod h1:PGw6D4Ne8Y5IBn96LWo+SxP1+SQY59tIH+/dzIUadMo=
+gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d h1:TxyelI5cVkbREznMhfzycHdkp5cLA7DpE+GKjSslYhM=
+gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d/go.mod h1:cuepJuh7vyXfUyUwEgHQXw849cJrilpS5NeIjOWESAw=
+gopkg.in/ldap.v2 v2.5.1 h1:wiu0okdNfjlBzg6UWvd1Hn8Y+Ux17/u/4nlk4CQr6tU=
+gopkg.in/ldap.v2 v2.5.1/go.mod h1:oI0cpe/D7HRtBQl8aTg+ZmzFUAvu4lsv3eLXMLGFxWk=
